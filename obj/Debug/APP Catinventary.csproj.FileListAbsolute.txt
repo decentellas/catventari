@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\bin\Debug\APP Catinventary.exe.config
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\bin\Debug\APP Catinventary.exe
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\bin\Debug\APP Catinventary.pdb
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\obj\Debug\APP Catinventary.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\obj\Debug\APP Catinventary.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\obj\Debug\APP_Catinventary.Form1.resources
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\obj\Debug\APP_Catinventary.Properties.Resources.resources
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\obj\Debug\APP Catinventary.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\obj\Debug\APP Catinventary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\obj\Debug\APP Catinventary.exe
+C:\Users\PC\Desktop\Projecte\Program\APP Catinventary\obj\Debug\APP Catinventary.pdb
